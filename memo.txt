@@ -1,0 +1,10 @@
+$ mkdir gqlgen-todos
+$ cd gqlgen-todos
+$ go mod init github.com/[username]/gqlgen-todos
+
+Define the schema
+
+$ go run github.com/99designs/gqlgen init
+This has created an empty skeleton with all files you need
+
+Create the database models
