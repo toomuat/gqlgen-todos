@@ -15,4 +15,4 @@ resolver:
 autobind: []
 models:
   Todo:
-    model: github.com/toomuat/gqlgen-todos.Todo
+    model: github/toomuat/gqlgen-todos.Todo
